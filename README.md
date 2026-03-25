@@ -1,19 +1,21 @@
-### 👋 Hi there, I'm **Cass** (aka `aurora257`)
+### 👋 Hi there, I'm **Cassidy Vermeulen** (aka `aurora257`)
 
-#### 💻 Software Developer | Mobile Dev | Robotics Enthusiast  
+#### 💻 Software Developer | Robotics Programmer | HealthTech Enthusiast  
 
-I'm a **multiplatform software development student** specialising in **C#**, **ASP.NET**, and **mobile development**.  
-I started out in **robotics (FTC)**, where I learned teamwork, innovation, and how to bring ideas to life through technology 🤖  
+I'm a **multiplatform software development graduate** specialising in **C#**, **.NET**, and full-stack development.  
+I started out in **FTC robotics**, where I developed a strong foundation in problem-solving, teamwork, and building real-world systems 🤖  
+
+I am now expanding my skills into **healthcare and pharmacy-related systems**, with an interest in building technology that improves patient care, accessibility, and digital health solutions.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aurora257&color=blueviolet&style=for-the-badge)
 
 ---
 
 ### 🚀 What I'm Working On  
-- 🧠 Building full-stack web and mobile apps with **C# / ASP.NET**  
-- 📱 Exploring **cross-platform development** (MAUI, Flutter, Kotlin)  
-- 🤝 Learning **Agile**, version control, and clean software design  
-- ⚙️ Experimenting with sensor integration and automation  
+- 🧠 Building full-stack applications with **C# / .NET / React**  
+- 💊 Exploring **healthcare & pharmacy systems** (patient data, digital solutions)  
+- 🤝 Mentoring students in coding, debugging, and project development  
+- ⚙️ Applying robotics and automation concepts to real-world problems  
 
 ---
 
@@ -29,11 +31,11 @@ I started out in **robotics (FTC)**, where I learned teamwork, innovation, and h
 #### 🧩 Frameworks & Tools  
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -41,9 +43,9 @@ I started out in **robotics (FTC)**, where I learned teamwork, innovation, and h
 ![Aurora257 GitHub Stats](https://github-readme-stats.vercel.app/api?username=aurora257&show_icons=true&theme=radical&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aurora257&layout=compact&theme=radical&count_private=true)
 
-![C# Repos](https://img.shields.io/badge/50%2B_C%23_Repos-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C# Repos](https://img.shields.io/badge/C%23_Projects-Focused-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ---
 
 ### ✨ Fun Fact  
-I started with **FTC robotics**, and now I’m blending **software dev + robotics** to build smart apps and autonomous solutions 🤯
+I started with **FTC robotics**, and now I’m combining **software development, robotics, and healthcare innovation** to build impactful real-world solutions 💡
