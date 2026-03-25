@@ -15,7 +15,8 @@ I am now expanding my skills into **healthcare and pharmacy-related systems**, w
 - 🧠 Building full-stack applications with **C# / .NET / React**  
 - 💊 Exploring **healthcare & pharmacy systems** (patient data, digital solutions)  
 - 🤝 Mentoring students in coding, debugging, and project development  
-- ⚙️ Applying robotics and automation concepts to real-world problems  
+- ⚙️ Applying robotics and automation concepts to real-world problems
+- Current repos:55  
 
 ---
 
