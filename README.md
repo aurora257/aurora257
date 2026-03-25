@@ -8,6 +8,8 @@ I started out in **FTC robotics**, where I developed a strong foundation in prob
 I am now expanding my skills into **healthcare and pharmacy-related systems**, with an interest in building technology that improves patient care, accessibility, and digital health solutions.
 
 Current Respositries:55
+
+
 ![Profile Views](https://komarev.com/ghpvc/?username=aurora257&color=blueviolet&style=for-the-badge)
 
 ---
