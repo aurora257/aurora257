@@ -1,8 +1,8 @@
-### 👋 Hi there, I'm **Cassidy Vermeulen** (aka `aurora257`)
+###  Hi there, I'm **Cassidy Vermeulen** (aka `aurora257`)
 
-#### 💻 Software Developer | Robotics Programmer | HealthTech Enthusiast  
+#### Software Developer | Robotics Programmer | HealthTech Enthusiast | Digital Social Innovater
 
-I'm a **multiplatform software development graduate** specialising in **C#**, **.NET**, and full-stack development.  
+I'm a **multi-platform software development graduate** specialising in **C#**, **.NET**, and full-stack development.  
 I started out in **FTC robotics**, where I developed a strong foundation in problem-solving, teamwork, and building real-world systems 🤖  
 
 I am now expanding my skills into **healthcare and pharmacy-related systems**, with an interest in building technology that improves patient care, accessibility, and digital health solutions.
@@ -39,10 +39,8 @@ I am now expanding my skills into **healthcare and pharmacy-related systems**, w
 
 ---
 
-### 📊 GitHub Stats
-![Aurora257 GitHub Stats](https://github-readme-stats.vercel.app/api?username=aurora257&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aurora257&layout=compact&theme=radical&count_private=true)
-
+### 📊 GitHub Highlights
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aurora257&layout=compact&theme=radical&count_private=true)  
 ![C# Repos](https://img.shields.io/badge/C%23_Projects-Focused-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ---
